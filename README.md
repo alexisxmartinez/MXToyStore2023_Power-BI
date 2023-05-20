@@ -17,11 +17,11 @@ This project aims to analyze a dataset containing information about stores, prod
 🔢 Units	Units sold
 📊 Stock_On_Hand	Stock quantity of the product in the store (inventory)
 
-| Left Align (default) | Center Align | Right Align |
-| :------------------- | :----------: | ----------: |
-| React.js             | Node.js      | MySQL       |
-| Next.js              | Express      | MongoDB     |
-| Vue.js               | Nest.js      | Redis       |
+| Field | Description | 
+| :------------------- | :----------: | 
+| Sale_ID             | Sale ID     | 
+| 📅 Date             | Date of the transaction      | 
+| 🏢 Store_ID             | Store ID      | 
 
 ## The main objectives of this project are:
 
