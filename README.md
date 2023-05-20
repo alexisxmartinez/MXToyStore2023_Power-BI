@@ -17,25 +17,11 @@ This project aims to analyze a dataset containing information about stores, prod
 🔢 Units	Units sold
 📊 Stock_On_Hand	Stock quantity of the product in the store (inventory)
 
-Sales Table
-
-| Field | Description |
-
-:-----------------	:------------------------------------
-🏼 Sale_ID	Sale ID
-📅 Date	Date of the transaction
-🏢 Store_ID	Store ID
-📦 Product_ID	Product ID
-🔢 Units	Units sold
-## Skills & Tools Utilized
--Data analysis and visualization
--Python programming
--SQL and database management
--Exploratory data analysis (EDA)
--Statistical analysis and modeling
--Machine learning algorithms
--Power BI for data visualization
--Objectives
+| Left Align (default) | Center Align | Right Align |
+| :------------------- | :----------: | ----------: |
+| React.js             | Node.js      | MySQL       |
+| Next.js              | Express      | MongoDB     |
+| Vue.js               | Nest.js      | Redis       |
 
 ## The main objectives of this project are:
 
