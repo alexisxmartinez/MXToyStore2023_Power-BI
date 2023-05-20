@@ -1,6 +1,7 @@
 
-# Project Description
+# Analysis of Toy Stores in Mexico - 2023
 ![Illustration of silhouetted heads](mxtoystore.jpg)
+## Project Description
 This project aims to analyze a dataset containing information about stores, products, and sales transactions in Mexico. The dataset is structured using the following data dictionary:
 
 ## Data Dictionary
