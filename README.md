@@ -1,7 +1,7 @@
 # Project Description
 This project aims to analyze a dataset containing information about stores, products, and sales transactions in Mexico. The dataset is structured using the following data dictionary:
 
-## Field + Description
+## Data Dictionary
 - 🏢 Store_ID =	Store ID
 - 🏪 Store_Name = Store name
 - 🌆 Store_City =	City in Mexico where the store is located
