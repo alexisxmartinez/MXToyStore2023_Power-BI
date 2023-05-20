@@ -17,6 +17,30 @@ This project aims to analyze a dataset containing information about stores, prod
 🔢 Units	Units sold
 📊 Stock_On_Hand	Stock quantity of the product in the store (inventory)
 
+Field	Description
+Sales Table	
+Sale_ID	Sale ID
+Date	Date of the transaction
+Store_ID	Store ID
+Product_ID	Product ID
+Units	Units sold
+Products Table	
+Product_ID	Product ID
+Product_Name	Product name
+Product_Category	Product Category
+Product_Cost	Product cost ($USD)
+Product_Price	Product retail price ($USD)
+Stores Table	
+Store_ID	Store ID
+Store_Name	Store name
+Store_City	City in Mexico where the store is located
+Store_Location	Location in the city where the store is located
+Store_Open_Date	Date when the store was opened
+Inventory Table	
+Store_ID	Store ID
+Product_ID	Product ID
+Stock_On_Hand	Stock quantity of the product in the store (inventory)
+
 ## Skills & Tools Utilized
 -Data analysis and visualization
 -Python programming
