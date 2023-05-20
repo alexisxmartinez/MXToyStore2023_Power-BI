@@ -1,4 +1,4 @@
-[pic](0_1 (4).png)
+![pic](0_1 (4).png)
 # Project Description
 This project aims to analyze a dataset containing information about stores, products, and sales transactions in Mexico. The dataset is structured using the following data dictionary:
 
