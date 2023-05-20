@@ -1,5 +1,6 @@
-(0_1 (4).png)
-# [Project Description](0_1 (4).png)
+[mxtoystore.png]: auto-generated-path-to-file-when-you-upload-image "Hover me"
+![error text][logo]
+# Project Description
 This project aims to analyze a dataset containing information about stores, products, and sales transactions in Mexico. The dataset is structured using the following data dictionary:
 
 ## Data Dictionary
