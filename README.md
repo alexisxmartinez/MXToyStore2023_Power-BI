@@ -47,6 +47,7 @@ The dataset is structured using the following data dictionary:
 ## Modeling & Calculations 
 - To build the schema we used the primary & foreign keys within each dimension table and connected them to the sales fact table, this was pretty simple and easily done through Power BI's relationship editor. 
 - I decided to aggregate a date table using DAX , here's the DAX code I used: 
+
 ![dax code](dax time table.png)
 
 ## Reports & Dashboard
