@@ -113,11 +113,14 @@ Stock Levels = SUM(inventory[Stock_On_Hand])
 
 ### Sales Overview
 Objective: Provide an overview of sales performance and trends.
-Visualizations:
-- Report cards for Total Sales, Total Profit & Stock levels.
-- Understanding sales patterns over time is aided by a time-series line graph depicting the evolution of sales. You can identify seasonality or sales trends and make informed business decisions as a result.
-- The area chart depicting toy category sales and distribution over time allows you to analyze the performance of various toy categories. You can identify the most popular product categories and monitor their performance over time.
-- The bar chart depicting the distribution of sales by store enables you to compare the sales performance of various store locations. You can identify the best-performing stores and analyze how sales are distributed across different locations.
-- Distribution of sales by category is depicted in a column chart. 
-- The column chart depicting the distribution of sales by category reveals information about the popularity of various toy categories. You can identify the most popular product categories and evaluate their contribution to overall sales.
+### Executive Dashboard 
+Objective: Provide an overview of sales performance and trends.
+### Product Analysis
+Objective: 	Analyze product performance and identify top-selling products.
+### Store Performance	
+Objective: Evaluate store performance and identify top-performing stores.
+### Sales by Region
+Objective: Analyze sales by city or region to identify geographical trends.
+### Profitability Analysis
+Objective: Assess the profitability of products and stores.
 
