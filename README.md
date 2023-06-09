@@ -37,7 +37,7 @@ The dataset is structured using the following data dictionary:
 - Develop calculated columns and measures to derive meaningful insights.
 - Create interactive dashboards using Power BI to present key findings and visualizations.
 
-### Project Breakdown
+# Project Breakdown
 
 ## Data Acquisition & Cleansing 
 
@@ -45,7 +45,7 @@ The dataset is structured using the following data dictionary:
 
 ## Reports & Dashboard
 
-# Sales Overview
+### Sales Overview
 Objective: Provide an overview of sales performance and trends.
 Visualizations:
 - Report cards for Total Sales, Total Profit & Stock levels.
