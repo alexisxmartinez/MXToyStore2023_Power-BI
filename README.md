@@ -63,24 +63,37 @@ RETURN
 - We converted the Data Category for Store_City, this allowed the map visualizations to function accurately.
 These are several Measures I found to be very useful:
 - Target Sales: We needed to establish a target for our total monthly revenue, that way we could create a KPI card to measure our performance on a monthly basis.
+
 ```Target Sales = 24000000
 ```
 - Total Cost: This allows us to calculate how much each product is costing us, then summarizes it. It can be used a granular level. 
+
+
 ```Total Cost = SUMX(Sales, Sales[Units] * RELATED(Products[Product_Cost])) 
 ```
 - Total Margin: With this measure we calculate the total % of margin.
+
+
 ```Total Margin = [Total Sales] - [Total Cost]
 ```
 - Total Profit: With this measure we calculate the total profit brought in.
+
+
 ```Total Profit = SUMX(Sales, (Sales[Units] * RELATED(Products[Product_Price])) - (Sales[Units] * RELATED(Products[Product_Cost])))
  ```
 - Total Sales: With this measure we calculate the total sales brought in.
+
+
  ```Total Sales = SUM('Sales'[Units]) * SUM(products[Product_Price])
  ```
 - Margin (by product): With this measure we calculate the % of margin per product.
+
+
 ```Margin = DIVIDE(Products[Product_Price] - Products[Product_Cost], Products[Product_Price])
 ```
 - Profit (by product): With this measure we calculate the profit per product.
+
+
 ```Profit by Toy = Products[Product_Price] - Products[Product_Cost]
 ```
 
