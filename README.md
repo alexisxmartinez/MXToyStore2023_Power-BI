@@ -121,12 +121,3 @@ Visualizations:
 - Distribution of sales by category is depicted in a column chart. 
 - The column chart depicting the distribution of sales by category reveals information about the popularity of various toy categories. You can identify the most popular product categories and evaluate their contribution to overall sales.
 
-### Sales Overview
-Objective: Provide an overview of sales performance and trends.
-Visualizations:
-- Report cards for Total Sales, Total Profit & Stock levels.
-- Understanding sales patterns over time is aided by a time-series line graph depicting the evolution of sales. You can identify seasonality or sales trends and make informed business decisions as a result.
-- The area chart depicting toy category sales and distribution over time allows you to analyze the performance of various toy categories. You can identify the most popular product categories and monitor their performance over time.
-- The bar chart depicting the distribution of sales by store enables you to compare the sales performance of various store locations. You can identify the best-performing stores and analyze how sales are distributed across different locations.
-- Distribution of sales by category is depicted in a column chart. 
-- The column chart depicting the distribution of sales by category reveals information about the popularity of various toy categories. You can identify the most popular product categories and evaluate their contribution to overall sales.
