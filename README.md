@@ -31,22 +31,30 @@ The dataset is structured using the following data dictionary:
 
 ## Throughout this project, you can expect to:
 
-- Explore the dataset using Python and SQL to understand its structure and contents.
+- Explore the dataset using Power Query to understand its structure and contents.
 - Clean and preprocess the data to handle missing values, outliers, and inconsistencies.
 - Perform exploratory data analysis using various statistical and visual techniques.
-- Build machine learning models for classification, regression, or clustering tasks.
 - Develop calculated columns and measures to derive meaningful insights.
 - Create interactive dashboards using Power BI to present key findings and visualizations.
 
-### Findings
-- Please refer to the findings section below to fill in the specific insights, visualizations, and conclusions derived from the analysis of the dataset.
+### Project Breakdown
 
-### Findings
-- Please provide your findings, insights, visualizations, and conclusions based on the analysis of the dataset.
+## Data Acquisition & Cleansing 
 
-### Example Finding 1
-Objective: Identify the top-selling products by category.
-Visualizations: Bar chart showing the sales quantity by product category.
+## Modeling & Calculations 
+
+## Reports & Dashboard
+
+# Sales Overview
+Objective: Provide an overview of sales performance and trends.
+Visualizations:
+- Report cards for Total Sales, Total Profit & Stock levels.
+- Understanding sales patterns over time is aided by a time-series line graph depicting the evolution of sales. You can identify seasonality or sales trends and make informed business decisions as a result.
+- The area chart depicting toy category sales and distribution over time allows you to analyze the performance of various toy categories. You can identify the most popular product categories and monitor their performance over time.
+- The bar chart depicting the distribution of sales by store enables you to compare the sales performance of various store locations. You can identify the best-performing stores and analyze how sales are distributed across different locations.
+- Distribution of sales by category is depicted in a column chart. 
+- The column chart depicting the distribution of sales by category reveals information about the popularity of various toy categories. You can identify the most popular product categories and evaluate their contribution to overall sales.
+
 Fields: Product_Category, Units
 
 ### Example Finding 2
