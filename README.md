@@ -60,8 +60,6 @@ RETURN
     )
 ```
 
-![dax](daxtimetable.png)
-
 ## Reports & Dashboard
 
 ### Sales Overview
