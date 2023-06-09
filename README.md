@@ -3,6 +3,7 @@
 📚 This project aims to analyze a dataset containing information about stores, products, and sales transactions in Mexico. The dataset source comes from Maven Analytics and can be found [here](https://www.mavenanalytics.io/data-playground).
 
 ![Illustration of silhouetted heads](mxtoystore.jpg)
+Photo Source: Midjourney
 
 ## Data Dictionary
 The dataset is structured using the following data dictionary:
