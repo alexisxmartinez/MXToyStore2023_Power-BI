@@ -103,7 +103,11 @@ Margin = DIVIDE(Products[Product_Price] - Products[Product_Cost], Products[Produ
 ```
 Profit by Toy = Products[Product_Price] - Products[Product_Cost]
 ```
+- Stock levels: With this measure we calculate the total inventory. 
 
+```
+Stock Levels = SUM(inventory[Stock_On_Hand])
+```
 ## Reports & Dashboard 
 
 ### Sales Overview
