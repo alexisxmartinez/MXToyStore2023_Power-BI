@@ -112,7 +112,10 @@ Stock Levels = SUM(inventory[Stock_On_Hand])
 ## Reports & Dashboard 
 
 ### Sales Overview
-Objective: Provide an overview of sales performance and trends.
+Objective: Provide an overview of sales performance and trends. 
+
+![sales overview](/MX Store/so.png)
+
 ### Executive Dashboard 
 Objective: Provide an overview of sales performance and trends.
 ### Product Analysis
