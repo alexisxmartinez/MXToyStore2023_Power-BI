@@ -48,6 +48,18 @@ The dataset is structured using the following data dictionary:
 - To build the schema we used the primary & foreign keys within each dimension table and connected them to the sales fact table, this was pretty simple and easily done through Power BI's relationship editor. 
 - I decided to aggregate a date table using DAX , here's the DAX code I used: 
 
+```TimeTable = 
+VAR MinDate = MIN('Sales'[Date])
+VAR MaxDate = MAX('Sales'[Date])
+RETURN
+    ADDCOLUMNS(
+        CALENDAR(MinDate, MaxDate),
+        "Year", YEAR([Date]),
+        "Month", FORMAT([Date], "MMM"),
+        "Quarter", "Q" & FORMAT([Date], "Q")
+    )
+```
+
 ![dax](daxtimetable.png)
 
 ## Reports & Dashboard
