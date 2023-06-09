@@ -1,10 +1,10 @@
 
-# Analysis of Toy Stores in Mexico - 2023
+# Power BI Analysis Project: Retail Toy Stores in Mexico - 2023
+📚 This project aims to analyze a dataset containing information about stores, products, and sales transactions in Mexico. The dataset can be found [here]: https://www.mavenanalytics.io/data-playground
 ![Illustration of silhouetted heads](mxtoystore.jpg)
-## Project Description
-This project aims to analyze a dataset containing information about stores, products, and sales transactions in Mexico. The dataset is structured using the following data dictionary:
 
 ## Data Dictionary
+The dataset is structured using the following data dictionary:
 - 🏢 Store_ID =	Store ID
 - 🏪 Store_Name = Store name
 - 🌆 Store_City =	City in Mexico where the store is located
@@ -20,14 +20,13 @@ This project aims to analyze a dataset containing information about stores, prod
 - 🔢 Units =	Units sold
 - 📊 Stock_On_Hand =	Stock quantity of the product in the store (inventory)
 
-## The main objectives of this project are:
+## 🔍 The main objectives of this project are:
 
 - Perform comprehensive data analysis to gain insights into the stores, products, and sales transactions.
 - Identify patterns, trends, and relationships within the dataset.
 - Conduct statistical analysis to uncover key metrics and performance indicators.
 - Build predictive models to forecast sales and optimize inventory management.
 - Develop interactive and visually appealing dashboards to present findings and insights.
-- What to Expect
 
 ## Throughout this project, you can expect to:
 
