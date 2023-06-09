@@ -42,7 +42,7 @@ The dataset is structured using the following data dictionary:
 
 ## Data Acquisition & Cleansing 
 - Given the nature of this project, I didn't go for any fancy extraction method other than importing the CSV files directly. If I could it again, I'd be probably connect to my local MySQL server and just extract the data from there. 
-- The data required little to no cleaning up or normalization, the only modifications I did was removing "Maven Toys" from the store names, and updating "Ciudad de Mexico" to "Mexico City" in order for the maps visualization to function properly.
+- The data required little to no cleaning or normalization, the only modifications I did were removing "Maven Toys" from the store names, and updating "Ciudad de Mexico" to "Mexico City" in the Store_City column in order for the maps visualization to function properly.
 - I used Power Query's option to view data distribution and column statistics to do some exploratory analysis. 
 
 ## Modeling & Calculations 
