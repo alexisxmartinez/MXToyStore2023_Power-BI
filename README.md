@@ -114,10 +114,13 @@ Stock Levels = SUM(inventory[Stock_On_Hand])
 ### Sales Overview
 Objective: Provide an overview of sales performance and trends. 
 
-![sales overview](so.png)
 
 ### Executive Dashboard 
 Objective: Provide an overview of sales performance and trends.
+
+![executive dashboard](ed.png)
+
+
 ### Product Analysis
 Objective: 	Analyze product performance and identify top-selling products.
 ### Store Performance	
